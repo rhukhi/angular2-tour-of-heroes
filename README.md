@@ -1,11 +1,13 @@
-<<<<<<< HEAD
+Tour of Heroes
+
 This is my first angular project, I just did what I was asked to do in the documentation.
 
-You can check the angular website to get started. Follow this link https://angular.io/docs/ts/latest/quickstart.html. I decided to use typescript but you can use javascript if you want.
+You can check the angular website to get started. Follow this link https://angular.io/docs/ts/latest/tutorial/. I decided to use typescript but you can use javascript if you want.
 
-Whenever you want to use this code,go to your terminal and all you have to do is direct it to the directory where what you have cloned is and type "npm install". This is to install all the dependencies and dev dependencies.
+All you have to do is type these in your terminal/ command prompt/ command line
+1. npm install
+2. npm start
 
-After that, you then have to type "npm start". This is to make the app start. It might take a long time but patience is very key.
-=======
+With these, you are good to go to an extent. In the sense that, I would change what I want this app to look like later but for now, this is all I want to use.
 
->>>>>>> fda6e95cbb4b6c881da73fb6be38ba4e9e7ea6d0
+Pardon me for any delay that you may have because of how long I might take in finishing this work..
