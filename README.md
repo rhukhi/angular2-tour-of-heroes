@@ -10,4 +10,4 @@ All you have to do is type these in your terminal/ command prompt/ command line
 
 With these, you are good to go to an extent. In the sense that, I would change what I want this app to look like later but for now, this is all I want to use.
 
-Pardon me for any delay that you may have because of how long I might take in finishing this work..
+I added a folder that hides all your .js and .map.js files whenever there is a .ts file in that same folder. You can also make them save in another folder entirely.

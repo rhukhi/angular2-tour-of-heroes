@@ -16,7 +16,7 @@ var heroes_component_1 = require('./heroes.component');
 var hero_detail_component_1 = require('./hero-detail.component');
 var AppComponent = (function () {
     function AppComponent() {
-        this.title = 'Tour of Heroes by Rukky Ujara';
+        this.title = 'Tour of Heroes';
     }
     AppComponent = __decorate([
         core_1.Component({

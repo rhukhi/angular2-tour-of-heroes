@@ -42,5 +42,5 @@ import { HeroDetailComponent } from './hero-detail.component';
     }
 ])
 export class AppComponent {
-    title = 'Tour of Heroes by Rukky Ujara';
+    title = 'Tour of Heroes';
 }
